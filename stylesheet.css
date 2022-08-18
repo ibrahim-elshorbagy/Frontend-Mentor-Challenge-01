@@ -1,0 +1,59 @@
+
+
+
+body
+{
+    font-family: 'Outfit', sans-serif;
+    box-sizing: border-box;
+    background-color: hsl(212, 45%, 89%);
+}
+
+
+
+.box
+{
+    margin: 250px auto;    
+
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    width: 300px;
+
+    padding: 10px ;
+
+    text-align: center;
+}
+
+
+.box img
+{
+    max-width: 100%;
+    border-radius: 10px;
+
+}
+
+
+.box h2
+{
+    color:hsl(218, 44%, 22%);
+
+
+}
+
+
+.box p
+{
+    color:hsl(212, 45%, 89%);
+    padding:0 10px 10px 10px;
+
+}
+
+/*
+
+## Colors
+
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
+
+*/
